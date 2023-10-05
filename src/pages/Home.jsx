@@ -5,6 +5,7 @@ import { useCollection } from "../hooks/useCollection"
 
 
 
+
  const Home = () => {
 
   const { data, loading } = useCollection("products")

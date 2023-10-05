@@ -19,6 +19,7 @@ import ItemDetails from "../pages/ItemDetails"
         <Route path="/category/:categoryName" element={<Category />} />
         <Route path="/item/:itemId" element={<ItemDetails />} />
       </Routes>
+  
     </Router>
   )
 }
