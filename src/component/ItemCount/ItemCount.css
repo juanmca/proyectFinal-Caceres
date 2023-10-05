@@ -1,0 +1,17 @@
+
+.estiloCount{
+    margin: 7px;   
+    font-size: 1rem;  
+    font-weight: bold ;
+    ;
+    
+
+}
+
+
+.countStyle{
+display: flex;  
+justify-content: center;
+align-items: center;
+
+}
